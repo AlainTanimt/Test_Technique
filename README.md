@@ -1,7 +1,7 @@
 # Projet : Traitement et Labélisation de Contenu OCR des Rapports SFCR
 
 ## Introduction
-Ceci est un projet de test technique conçu pour évaluer vos compétences en Python, en résolution de problémes, et en présentation de résultats. Ce projet vise à traiter et analyser des rapports SFCR extraits à l’aide de l’API Vision de Google Cloud Platform (GCP) et à produire une solution permettant de différencier le contenu utile du contenu indésirable.
+Ceci est un projet de test technique conçu pour évaluer vos compétences en Python et en résolution de problémes. Ce projet vise à traiter et analyser des rapports SFCR extraits et à produire une solution permettant de différencier le contenu utile du contenu indésirable.
 
 ## Contexte
 Les rapports SFCR (« Solvency and Financial Condition Reports ») sont publiés par les compagnies d’assurance pour fournir des informations sur leur situation financière, leur solvabilité et leur gestion des risques. Ces documents contiennent souvent des éléments superflus (comme les bas de pages, hauts de pages, tableaux et graphiques), rendant leur analyse automatique complexe. L'objectif principal est d'extraire uniquement le contenu utile pour faciliter les traitements ultérieurs.
