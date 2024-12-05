@@ -49,7 +49,7 @@ Les rapports SFCR (« Solvency and Financial Condition Reports ») sont publiés
 ### Instructions
 1. Clonez ce repository :
    ```bash
-   git clone <lien-du-repo>
+   git clone https://github.com/AlainTanimt/Teste_Technique_KPMG.git
    cd <nom-du-repo>
    ```
 2. Installez les dépendances :
@@ -58,5 +58,5 @@ Les rapports SFCR (« Solvency and Financial Condition Reports ») sont publiés
    ```
 3. Exécutez le script principal :
    ```bash
-   python main.py
+   python main.py data/ocr/allianz-1-to-94.json
    ```
