@@ -49,7 +49,7 @@ Les rapports SFCR (« Solvency and Financial Condition Reports ») sont publiés
 ### Instructions
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/AlainTanimt/Teste_Technique_KPMG.git
+   git clone https://github.com/AlainTanimt/Teste_Technique.git
    cd <nom-du-repo>
    ```
 2. Installez les dépendances :
